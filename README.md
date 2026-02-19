@@ -17,17 +17,15 @@ I design and build production-grade AI systems with:
 - Async pipelines & workflow orchestration (Prefect)
 - Secure document ingestion systems
 
-## Typical RAG Architecture
+- 🔭 I’m currently working on scalable multi-tenant RAG systems and LangGraph-based agent orchestration frameworks.
+- 🌱 I’m currently learning advanced LLM evaluation, inference optimization, and distributed AI system design.
+- 👯 I’m looking to collaborate on production-grade AI infrastructure, vector search systems, and agentic workflows.
+- 🤔 I’m looking for help with large-scale evaluation frameworks and optimizing retrieval quality in multi-agent systems.
+- 💬 Ask me about FastAPI architectures, RAG pipelines, Milvus vector search, async Python, and AI backend design.
+- 📫 How to reach me: udayreddys2607@gmail.com | LinkedIn: linkedin.com/UdayKiranReddy
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy turning complex AI workflows into clean, production-ready systems.
 
-```mermaid
-flowchart TD
-    A[User] --> B[FastAPI API Layer]
-    B --> C[Document Ingestion Pipeline]
-    C --> D[Embedding Model]
-    D --> E[Milvus Vector Store]
-    E --> F[LangGraph Agent]
-    F --> G[LLM Reasoning]
-    G --> H[Generated Report]
 
 <!--
 **Udayreddy2608/Udayreddy2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
